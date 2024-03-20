@@ -1,3 +1,5 @@
+
+
 body {
   background: #ffffff;
   background: -moz-repeating-linear-gradient(top, #FF80CB 0%, #97A2FF 0%, #FFBDBD 100%);
@@ -70,6 +72,7 @@ a{
 #menu li {
   display: inline-block;
   position: relative;
+
 }
 #menu a {
   display: block;
@@ -77,7 +80,7 @@ a{
   padding: 0 14px;
   text-decoration: none;
   color: #FFFFFF;
-  font-size: 16px;
+  font-size: 22px;
 }
 #menu a.dropdown-arrow:after {
   content: "\25BF";
