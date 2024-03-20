@@ -3,8 +3,7 @@ body {
   background: -moz-repeating-linear-gradient(top, #FF80CB 0%, #97A2FF 0%, #FFBDBD 100%);
   background: -webkit-repeating-linear-gradient(top, #FF80CB 0%, #97A2FF 0%, #FFBDBD 100%);
   background: repeating-linear-gradient(to bottom, #FF80CB 0%, #97A2FF 0%, #FFBDBD 100%);
-
-  
+  background-attachment: fixed;
 
 
   
